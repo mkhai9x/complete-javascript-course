@@ -51,3 +51,7 @@ var fullAge = 18
 
 var isFullAge = now - yearJohn >= fullAge
 console.log(isFullAge)
+
+var ageJohn = now - yearJohn;
+var ageMark = 35;
+var average = (ageJohn + ageMark) / 2
